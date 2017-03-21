@@ -1,0 +1,23 @@
+/* 
+    Nombre: Style.css
+    Autores: Inforáticos - 2896
+    Objetivo: Hoja de Estilos para la pagina web index.html
+    Fecha: 19/03/2017
+    Licencia: Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial-           CompartirIgual 4.0 Internacional.
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+html{
+    font-family: "Lucida Sans", sans-serif;
+}
+
+header{
+    background-color: #BDBDBD;
+    color: whitesmoke;
+    text-align: center;
+    padding: 15px;
+}
+
